@@ -173,6 +173,12 @@ p {
     }
 }
 
+.setion__product__price {
+    text-align: center;
+}
+.section__button__addToCart:hover {
+    transform: scale(1.05); /* Cambia el tamaño del botón al 105% */
+}
 
 
 

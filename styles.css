@@ -141,3 +141,6 @@ input[type="checkbox"] {
         width: 500px;
     }
 }
+.container__form__input--submit:hover {
+    transform: scale(1.05); /* Cambia el tamaño del botón al 105% */
+}
